@@ -1,4 +1,4 @@
-package org.libDep4;
+package org.king;
 public class Library {
     public String[] count(Integer number) {
         String[] lines = new String[number];
